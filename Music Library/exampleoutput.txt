@@ -1,0 +1,134 @@
+1) Add Customer
+2) Login
+6) Exit
+
+Option: 1
+Enter user name: u1
+Enter password: qwerty
+1) Add Customer
+2) Login
+6) Exit
+
+Option: 2
+Enter user name: u1
+Enter password: qwerty
+1) Add playlist
+2) Add mp3file
+3) Add online media
+4) Show playlist
+5) Remove playlist
+6) Remove playlist item
+7) Logout
+1
+Enter playlist name:my songs
+1) Add playlist
+2) Add mp3file
+3) Add online media
+4) Show playlist
+5) Remove playlist
+6) Remove playlist item
+7) Logout
+2
+Enter playlist name:my songs
+Enter mp3 file name:1.mp3
+Enter path:
+length in seconds :100
+Size in bytes:323333
+1) Add playlist
+2) Add mp3file
+3) Add online media
+4) Show playlist
+5) Remove playlist
+6) Remove playlist item
+7) Logout
+4
+Enter playlist name:my songs
+playlist name: my songs
+1. Mp3:my songs, file: \1.mp3, length: 100 sec
+1) Add playlist
+2) Add mp3file
+3) Add online media
+4) Show playlist
+5) Remove playlist
+6) Remove playlist item
+7) Logout
+3
+Enter playlist name:my songs
+Enter item title:lenon song
+Enter url:www.myurl.com
+length in seconds :122
+1) Add playlist
+2) Add mp3file
+3) Add online media
+4) Show playlist
+5) Remove playlist
+6) Remove playlist item
+7) Logout
+4
+Enter playlist name:my songs
+playlist name: my songs
+1. Mp3:my songs, file: \1.mp3, length: 100 sec
+2. Online media:lenon song, urlwww.myurl.com, length: 122
+1) Add playlist
+2) Add mp3file
+3) Add online media
+4) Show playlist
+5) Remove playlist
+6) Remove playlist item
+7) Logout
+1
+Enter playlist name:folk
+1) Add playlist
+2) Add mp3file
+3) Add online media
+4) Show playlist
+5) Remove playlist
+6) Remove playlist item
+7) Logout
+3
+Enter playlist name:folk
+Enter item title:new
+Enter url:213,kd
+length in seconds :333
+1) Add playlist
+2) Add mp3file
+3) Add online media
+4) Show playlist
+5) Remove playlist
+6) Remove playlist item
+7) Logout
+4
+Enter playlist name:folk
+playlist name: folk
+1. Online media:new, url213,kd, length: 333
+1) Add playlist
+2) Add mp3file
+3) Add online media
+4) Show playlist
+5) Remove playlist
+6) Remove playlist item
+7) Logout
+6
+Enter playlist name:my songs
+playlist name: my songs
+1. Mp3:my songs, file: \1.mp3, length: 100 sec
+2. Online media:lenon song, urlwww.myurl.com, length: 122
+Select item to delete 1-2: 2
+1) Add playlist
+2) Add mp3file
+3) Add online media
+4) Show playlist
+5) Remove playlist
+6) Remove playlist item
+7) Logout
+4
+Enter playlist name:my songs
+playlist name: my songs
+1. Online media:lenon song, urlwww.myurl.com, length: 122
+1) Add playlist
+2) Add mp3file
+3) Add online media
+4) Show playlist
+5) Remove playlist
+6) Remove playlist item
+7) Logout

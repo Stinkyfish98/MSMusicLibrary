@@ -1,0 +1,14 @@
+﻿  Item.cpp
+  ItemFactory.cpp
+  main.cpp
+  Mp3File.cpp
+  MusicLibrary.cpp
+  OnlineItem.cpp
+  Playlist.cpp
+  User.cpp
+C:\Users\Michael Stubenrauch\Downloads\Music Library\MusicLibrary\MusicLibrary\User.cpp(37,5): error C2676: binary '<<': 'std::ostream' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\Michael Stubenrauch\Downloads\Music Library\MusicLibrary\MusicLibrary\User.cpp(37,16): error C2065: 'endl': undeclared identifier
+C:\Users\Michael Stubenrauch\Downloads\Music Library\MusicLibrary\MusicLibrary\User.cpp(38,20): error C2065: 'endl': undeclared identifier
+C:\Users\Michael Stubenrauch\Downloads\Music Library\MusicLibrary\MusicLibrary\User.cpp(39,20): error C2065: 'endl': undeclared identifier
+C:\Users\Michael Stubenrauch\Downloads\Music Library\MusicLibrary\MusicLibrary\User.cpp(49,5): error C2676: binary '>>': 'std::istream' does not define this operator or a conversion to a type acceptable to the predefined operator
+  Generating Code...

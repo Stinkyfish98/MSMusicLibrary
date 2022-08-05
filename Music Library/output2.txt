@@ -1,0 +1,45 @@
+1) Add Customer
+2) Login
+6) Exit
+
+Option: 2
+Enter user name: u1
+Enter password: qwerty
+1) Add playlist
+2) Add mp3file
+3) Add online media
+4) Show playlist
+5) Remove playlist
+6) Remove playlist item
+7) Sort playlist by title
+8) Logout
+4
+Enter playlist name:my songs
+playlist name: my songs
+1. Mp3:Imagine, file: \1.mp3, length: 100 sec
+2. Mp3:Yellow submarine, file: \3.mp3, length: 100 sec
+3. Mp3:New song, file: \3.mp3, length: 100 sec
+1) Add playlist
+2) Add mp3file
+3) Add online media
+4) Show playlist
+5) Remove playlist
+6) Remove playlist item
+7) Sort playlist by title
+8) Logout
+7
+Enter playlist name:my songs
+playlist name: my songs
+1. Mp3:Imagine, file: \1.mp3, length: 100 sec
+2. Mp3:New song, file: \3.mp3, length: 100 sec
+3. Mp3:Yellow submarine, file: \3.mp3, length: 100 sec
+1) Add playlist
+2) Add mp3file
+3) Add online media
+4) Show playlist
+5) Remove playlist
+6) Remove playlist item
+7) Sort playlist by title
+8) Logout
+
+
